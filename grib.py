@@ -1,5 +1,5 @@
 # Copyright (c) 2025 Robert P. Hellums
-# Licensed under the Custom License. See LICENSE file in the project root for details.
+# Licensed under the CC BY-NC 4.0. See LICENSE file in the project root for details.
 
 # Import required libraries for AWS S3 access, date handling, logging, numerical operations, and GRIB file processing
 import boto3

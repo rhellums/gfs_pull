@@ -84,8 +84,7 @@ start_date     | Start date in YYYYMMDD format for downloading and processing GR
 end_date       | End date in YYYYMMDD format for downloading and processing GRIB data.
 zulus          | Comma-separated list of initialization times (00,06,12,18) you want to process.
 resolution     | Spatial resolution of the forecast (e.g., 0p25, 0p50, 1p00).
-na_bounds      | Boolean indicating whether to crop the data to North America.
-                If set to false, the script saves global data.
+na_bounds      | Boolean indicating whether to crop the data to North America. If set to false, the script saves global data.
 cleanup        | Boolean indicating whether to delete GRIB files after processing.
 
 -------------------------------------------------------------------------------
